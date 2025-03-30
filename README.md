@@ -49,4 +49,4 @@ For more detailed guidelines, please see our [CONTRIBUTING.md](CONTRIBUTING.md) 
 ---
 
 ### ⭐ Keep Innovating with Khatra Tech!
-```
+
